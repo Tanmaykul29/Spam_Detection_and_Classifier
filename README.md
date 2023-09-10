@@ -37,6 +37,10 @@ To gain insights into the dataset, we performed EDA:
 - Analyzed the distribution of message lengths.
 - Examined the distribution of characters, words, and sentences in each message.
 - Visualized data using histograms, pair plots, and heatmaps.
+- ![Spam Detection](images/1.png)
+- ![Spam Detection](images/5.png)
+- ![Spam Detection](images/6.png)
+- ![Spam Detection](images/7.png)
 
 ### 3. Text Preprocessing
 
@@ -83,6 +87,10 @@ To enhance model performance, we experimented with the following techniques:
 - Scaling: Standardizing features to handle variations in data distribution.
 
 ## Conclusion
+
+- ![Spam Detection](images/2.png)
+- ![Spam Detection](images/3.png)
+- ![Spam Detection](images/4.png)
 
 This project successfully addresses the problem of SMS spam detection and classification. The Multinomial Naive Bayes model achieved the best results among the classifiers tested. Further improvements, such as fine-tuning hyperparameters and exploring deep learning approaches, could lead to even better performance.
 
