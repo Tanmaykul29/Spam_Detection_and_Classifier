@@ -1,6 +1,6 @@
 # SMS Spam Detection and Classification
 
-![Spam Detection](spam_detection.png)
+![Spam Detection](images/8.png)
 
 This machine learning project aims to detect and classify SMS messages as either "ham" (legitimate) or "spam" using the SMS Spam Collection dataset from Kaggle.
 
