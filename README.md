@@ -19,6 +19,7 @@ This machine learning project aims to detect and classify SMS messages as either
 ## Introduction
 
 Spam messages are a common problem in today's communication systems. Detecting and filtering out these unwanted messages is essential to provide a better user experience. In this project, we employ machine learning techniques to classify SMS messages as either spam or legitimate.
+Dataset link kaggle: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## Project Overview
 
